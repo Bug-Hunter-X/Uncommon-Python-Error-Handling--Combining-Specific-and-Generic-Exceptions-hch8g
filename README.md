@@ -1,0 +1,1 @@
+This repository demonstrates an example of uncommon error handling in Python. Specifically, it shows a function that gracefully handles ZeroDivisionError, TypeError, and any other unexpected exceptions using a general Exception block. This approach is robust in unexpected cases.
